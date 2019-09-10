@@ -19,3 +19,5 @@
 9. [HTTP 状态码 301 和 302 的区别和应用场景](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/HTTP状态码301和302的区别和应用场景.md)
 
 10. [ajax、fetch、axios 这三都有什么区别](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/ajax、fetch、axios这三都有什么区别？.md)
+
+11. [BFC 和 IFC](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/BFC和IFC.md)
