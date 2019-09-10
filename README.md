@@ -21,3 +21,5 @@
 10. [ajax、fetch、axios 这三都有什么区别](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/ajax、fetch、axios这三都有什么区别？.md)
 
 11. [BFC 和 IFC](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/BFC和IFC.md)
+
+12. [loader 和 plugin 的区别](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/loader和plugin的区别.md)
