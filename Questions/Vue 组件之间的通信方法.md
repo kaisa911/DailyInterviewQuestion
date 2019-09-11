@@ -142,3 +142,89 @@ myId: window.sessionStorage.getItem('myId');
 ```
 
 local storage 也大同小异就不再赘述
+
+## 大佬的补充
+
+1. 子组件通过\$emit()方法，向父组件传递事件和参数。
+2. 父组件用 provide 向子组件传递信息。子组件，子子组件都可以用 inject 来获取到数据
+3. 通过 eventBus 来传递参数。（小项目少页面时使用）
+   声明一个 bus.js 文件
+   可以使用 $emit， $on， $once，$off 分别来分发、监听、取消监听事件：
+
+   ```js
+   //bus.js
+   import Vue from 'vue';
+   export default new Vue();
+   ```
+
+   A 组件：
+
+   ```js
+
+   <template>
+     <div>
+       A组件:
+       <span>{{elementValue}}</span>
+       <input type="button" value="点击触发" @click="elementByValue">
+     </div>
+   </template>
+   <script>
+     // 引入公共的bug，来做为中间传达的工具
+     import Bus from './bus.js'
+     export default {
+       data () {
+         return {
+           elementValue: 4
+         }
+       },
+       methods: {
+         elementByValue: function () {
+           Bus.$emit('val', this.elementValue)
+         }
+       }
+     }
+   </script>
+
+   ```
+
+   B 组件
+
+   ```js
+   <template>
+   <div>
+    B组件:
+    <input type="button" value="点击触发" @click="getData">
+    <span>{{name}}</span>
+   </div>
+   </template>
+   <script>
+   import Bus from './bus.js'
+   export default {
+    data () {
+      return {
+        name: 0
+      }
+    },
+   // 清除事件监听
+   beforeDestroy () {
+   Bus.$off('val')
+   },
+    mounted: function () {
+      var vm = this
+      // 用$on事件来接收参数
+      Bus.$on('val', (data) => {
+        console.log(data)
+        vm.name = data
+      })
+    },
+    methods: {
+      getData: function () {
+        this.name++
+      }
+    }
+   }
+   </script>
+   ```
+
+4. 传到服务器，新组件从服务端获取
+5. 变量挂载到 window，vue 上，然后在上面获取（只限单页）
