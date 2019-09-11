@@ -25,3 +25,5 @@
 12. [loader 和 plugin 的区别](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/说一下loader和plugin的区别.md)
 
 13. [Javascript 如何实现继承](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Javascript如何实现继承.md)
+
+14. [==和===的区别和特殊值的计算](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/==和===的区别和特殊值的计算.md)
