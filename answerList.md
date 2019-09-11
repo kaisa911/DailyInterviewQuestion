@@ -27,3 +27,7 @@
 13. [Javascript 如何实现继承](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Javascript如何实现继承.md)
 
 14. [==和===的区别和特殊值的计算](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/==和===的区别和特殊值的计算.md)
+
+15. [Vue 组件之间的通信方法](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue组件之间的通信方法.md)
+
+16. [prop 是怎么做验证的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/prop是怎么做验证的.md)
