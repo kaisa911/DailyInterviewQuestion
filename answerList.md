@@ -31,3 +31,6 @@
 15. [Vue 组件之间的通信方法](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue组件之间的通信方法.md)
 
 16. [prop 是怎么做验证的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/prop是怎么做验证的.md)
+17. [watch 和计算属性有什么区别](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/watch和计算属性有什么区别.md)
+18. [slot-scope 和 scope 的区别](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/slot-scope和scope的区别.md)
+19. [vue 开发 todo 小应用](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/vue开发todo小应用.md)
