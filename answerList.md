@@ -17,3 +17,5 @@
 15. [Vue 组件之间的通信方法](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/Vue组件之间的通信方法.md)
 16. [prop 是怎么做验证的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/prop是怎么做验证的.md)
 17. [vue 生命周期](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue生命周期.md)
+18. [实现一个 apply 方法和 call 方法](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/实现一个apply方法和call方法.md)
+19. [实现一个 bind 方法](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/实现一个bind方法.md)
