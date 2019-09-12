@@ -19,3 +19,6 @@
 17. [vue 生命周期](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue生命周期.md)
 18. [实现一个 apply 方法和 call 方法](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/实现一个apply方法和call方法.md)
 19. [实现一个 bind 方法](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/实现一个bind方法.md)
+20. [watch 和计算属性有什么区别](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/watch和计算属性有什么区别.md)
+21. [slot-scope 和 scope 的区别](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/slot-scope和scope的区别.md)
+22. [vue 开发 todo 小应用](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue开发todo小应用.md)
