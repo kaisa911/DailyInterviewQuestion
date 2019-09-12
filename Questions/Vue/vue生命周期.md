@@ -43,3 +43,13 @@ Vue 实例从开始创建、初始化数据、编译模板、挂载 Dom → 渲�
 **beforeUpdate**响应式数据更新时调用，发生在虚拟 DOM 打补丁之前。适合在更新之前访问现有的 DOM，比如手动移除已添加的事件监听器。
 
 **updated**虚拟 DOM 重新渲染和打补丁之后调用，组件 DOM 已经更新，可执行依赖于 DOM 的操作。避免在这个钩子函数中操作数据，可能陷入死循环
+
+## beforeDestroy 和 destroyed
+
+**beforeDestroy**  
+钩子函数在实例销毁之前调用。在这一步，实例仍然完全可用。  
+beforeDestroy 钩子函数的执行时机是在 $destroy 函数执行最开始的地方，接着执行了一系列的销毁动作，包括从 parent 的 $children 中删掉自身，删除 watcher，当前渲染的 VNode 执行销毁钩子函数等，执行完毕后再调用 destroy 钩子函数。
+
+**destroyed**  
+钩子函数在 Vue 实例销毁后调用。调用后，Vue 实例指示的所有东西都会解绑定，所有的事件监听器会被移除，所有的子实例也会被销毁。  
+在 \$destroy 的执行过程中，它又会执行 vm.\_\_patch\_\_(vm.\_vnode, null) 触发它子组件的销毁钩子函数，这样一层层的递归调用，所以 destroy 钩子函数执行顺序是先子后父，和 mounted 过程一样。
