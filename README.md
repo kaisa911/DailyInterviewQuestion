@@ -8,9 +8,9 @@
 
 ## 最新的题目
 
-[\==和===的区别和特殊值的计算](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/==和===的区别和特殊值的计算.md)
+[prop 是怎么做验证的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/prop是怎么做验证的.md)
 
-[Javascript 如何实现继承](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Javascript如何实现继承.md)
+[vue 生命周期](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue生命周期.md)
 
 <br/>
 <br/>
