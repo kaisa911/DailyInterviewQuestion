@@ -12,7 +12,7 @@
 
 6. [比特位计数](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/比特位计数.md)
 
-7. [简述 Vue 响应式原理](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/简述Vue响应式原理.md)
+7. [简述 Vue 响应式原理](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/简述Vue响应式原理.md)
 
 8. [如何实现一个骨架屏](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/如何实现一个骨架屏.md)
 
@@ -28,6 +28,8 @@
 
 14. [==和===的区别和特殊值的计算](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/==和===的区别和特殊值的计算.md)
 
-15. [Vue 组件之间的通信方法](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue组件之间的通信方法.md)
+15. [Vue 组件之间的通信方法](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/Vue组件之间的通信方法.md)
 
-16. [prop 是怎么做验证的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/prop是怎么做验证的.md)
+16. [prop 是怎么做验证的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/prop是怎么做验证的.md)
+
+17. [vue 生命周期](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue生命周期.md)
