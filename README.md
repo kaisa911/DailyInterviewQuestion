@@ -10,7 +10,9 @@
 
 [prop 是怎么做验证的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/prop是怎么做验证的.md)
 
-[vue 生命周期](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue生命周期.md)
+[watch 和计算属性有什么区别](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/watch和计算属性有什么区别.md)
+
+[new 操作符具体干了什么](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/new操作符具体干了什么.md)
 
 <br/>
 <br/>
