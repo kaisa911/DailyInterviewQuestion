@@ -14,21 +14,23 @@
 
 [new 操作符具体干了什么](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/new操作符具体干了什么.md)
 
+……
 <br/>
-<br/>
-
-## 全部面试题
-
-[查看全部](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/questionList.md)
-
-每天更新中，欢迎 issue 交流和 pr
-
-## 整理的题目
-
-[查看全部](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/answerList.md)
 
 ## 试题分类
 
 [JavaScript](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Classification/JavaScript.md) | [Vue](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Classification/Vue.md) | [软技能](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Classification/软技能.md) | [工具](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Classification/Tool.md) | [网络相关](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Classification/Network.md)
 
 [HTML](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Classification/Html.md) | [CSS](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Classification/CSS.md)
+
+## 全部答案
+
+[查看全部](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/answerList.md)
+
+## 全部问题
+
+[查看全部](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/questionList.md)
+
+## 交流分享
+
+每天更新中，欢迎 issue 交流和 pr
