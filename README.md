@@ -12,9 +12,9 @@
 
 [vue 推荐的风格指南](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue推荐的风格指南.md)
 
-[组件中写 name 选项有什么作用？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/组件中写name选项有什么作用.md)
+[vue 给组件绑定自定义事件无效怎么解决](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue给组件绑定自定义事件无效怎么解决.md)
 
-[new 操作符具体干了什么](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/new操作符具体干了什么.md)
+[vue 怎么获取 DOM 节点](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue怎么获取DOM节点.md)
 
 ……
 <br/>
