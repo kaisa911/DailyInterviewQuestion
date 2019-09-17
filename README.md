@@ -8,9 +8,11 @@
 
 ## 最新的题目
 
-[prop 是怎么做验证的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/prop是怎么做验证的.md)
+[\$nextTick 认知及原理](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/$nextTick认知及原理.md)
 
-[watch 和计算属性有什么区别](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/watch和计算属性有什么区别.md)
+[vue 推荐的风格指南](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue推荐的风格指南.md)
+
+[组件中写 name 选项有什么作用？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/组件中写name选项有什么作用.md)
 
 [new 操作符具体干了什么](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/new操作符具体干了什么.md)
 
