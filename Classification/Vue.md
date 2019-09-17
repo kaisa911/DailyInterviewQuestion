@@ -12,3 +12,6 @@
 10. [vue3.0 特性](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue3.0特性.md)
 11. [\$nextTick 认知及原理](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/$nextTick认知及原理.md)
 12. [组件中写 name 选项有什么作用？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/组件中写name选项有什么作用.md)
+13. [v-once 的使用场景有哪些](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-once的使用场景有哪些.md)
+14. [vue 给组件绑定自定义事件无效怎么解决](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue给组件绑定自定义事件无效怎么解决.md)
+15. [vue 怎么获取 DOM 节点](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue怎么获取DOM节点.md)
