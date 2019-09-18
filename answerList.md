@@ -31,3 +31,4 @@
 29. [v-once 的使用场景有哪些](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-once的使用场景有哪些.md)
 30. [vue 给组件绑定自定义事件无效怎么解决](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue给组件绑定自定义事件无效怎么解决.md)
 31. [vue 怎么获取 DOM 节点](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue怎么获取DOM节点.md)
+32. [使用 vue 开发过程你是怎么做接口管理的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/使用vue开发过程你是怎么做接口管理的.md)
