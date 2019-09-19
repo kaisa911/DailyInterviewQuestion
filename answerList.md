@@ -32,3 +32,4 @@
 30. [vue 给组件绑定自定义事件无效怎么解决](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue给组件绑定自定义事件无效怎么解决.md)
 31. [vue 怎么获取 DOM 节点](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue怎么获取DOM节点.md)
 32. [使用 vue 开发过程你是怎么做接口管理的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/使用vue开发过程你是怎么做接口管理的.md)
+33. [vue 中组件 name 的作用](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue中组件name的作用.md)
