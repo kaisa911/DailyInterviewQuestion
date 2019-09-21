@@ -16,3 +16,5 @@
 14. [vue 给组件绑定自定义事件无效怎么解决](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue给组件绑定自定义事件无效怎么解决.md)
 15. [vue 怎么获取 DOM 节点](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue怎么获取DOM节点.md)
 16. [使用 vue 开发过程你是怎么做接口管理的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/使用vue开发过程你是怎么做接口管理的.md)
+17. [说说你对 Object.defineProperty 的理解](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/说说你对defineProperty的理解.md)
+18. [说说组件的命名规范](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/说说组件的命名规范.md)
