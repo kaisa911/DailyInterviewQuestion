@@ -18,3 +18,4 @@
 16. [使用 vue 开发过程你是怎么做接口管理的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/使用vue开发过程你是怎么做接口管理的.md)
 17. [说说你对 Object.defineProperty 的理解](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/说说你对defineProperty的理解.md)
 18. [说说组件的命名规范](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/说说组件的命名规范.md)
+19. [v-if 和 v-for 的优先级是什么](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-if和v-for的优先级是什么)
