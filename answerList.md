@@ -36,3 +36,4 @@
 34. [说说你对 Object.defineProperty 的理解](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/说说你对defineProperty的理解.md)
 35. [说说组件的命名规范](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/说说组件的命名规范.md)
 36. [v-if 和 v-for 的优先级是什么](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-if和v-for的优先级是什么)
+37. [v-model 的原理](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-model的原理.md)
