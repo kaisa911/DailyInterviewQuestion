@@ -70,7 +70,7 @@ Vuex 是一个专为 Vue.js 应用程序开发的**状态管理模式**。使用
 
 ```js
 //bus.js
-import Vue from 'vue';
+import Vue from "vue";
 export default new Vue();
 ```
 
@@ -148,3 +148,75 @@ Bus.$off('val')
 1. 通过 url 的 query 和 state
 2. 通过 localStorage，sessionStorage 等前端持久化的方式传递。
 3. 单页可以存放在 window，Vue 上。
+
+## js 方法
+
+通过 props 传入一个回调函数即可在子组件中操作父组件中的数据。
+首先父组件的回调函数写在哪里还有关系，父组件的回调函数若写在 data 里，以函数对象传入，则其中的 this 指向子组件
+
+若是写在 methods 里则是以方法返回子组件，父组件初始化时，该方法的 this 上下文绑定的是父组件的实例，因此可以在子组件中通过这个函数的回调来操作父组件数据，
+
+> 这个方法利用了 js 中的回调函数，函数执行时的作用域，仍然是定义时的作用域。
+> 为了解耦父子组件，在做这个子组件的时候还是需要 emit 出来。因为很多时候整个父组件的由无数小的子组件构成的。父组件统一处理逻辑比在子组件单个处理合理
+> 组件尽量做自己的事，别做别的组件的事。这样，维护也很方便。
+
+例子
+父组件
+
+```html
+<HelloWorld
+  :callback="callback"
+  :mutationName="fatherData"
+  msg="Welcome to Your Vue.js App"
+/>
+```
+
+```js
+import HelloWorld from "@/components/HelloWorld.vue";
+
+export default {
+  name: "home",
+  components: {
+    HelloWorld
+  },
+  data() {
+    return {
+      fatherData: 1
+    };
+  },
+  methods: {
+    //回调函数定义
+    callback(Data) {
+      this.fatherData = Data;
+    }
+  }
+};
+```
+
+子组件
+
+```html
+<div class="hello">
+  <h1>{{ msg }}</h1>
+  <h1>{{mutationName}}</h1>
+  <button @click="callbackTest">add</button>
+</div>
+```
+
+```js
+export default {
+  name: "HelloWorld",
+  props: ["msg", "mutationName", "callback"],
+  data() {
+    return {
+      i: 1
+    };
+  },
+  methods: {
+    //使用回调函数
+    callbackTest() {
+      this.callback(++this.i);
+    }
+  }
+};
+```
