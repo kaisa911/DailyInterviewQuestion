@@ -38,3 +38,4 @@
 36. [v-if 和 v-for 的优先级是什么](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-if和v-for的优先级是什么)
 37. [v-model 的原理](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-model的原理.md)
 38. [keep-alive 有关的生命周期.md](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/keep-alive有关的生命周期.md)
+39. [data 声明为函数返回](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/data声明为函数返回.md)
