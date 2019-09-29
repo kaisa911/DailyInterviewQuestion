@@ -22,3 +22,4 @@
 20. [v-model 的原理](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-model的原理.md)
 21. [keep-alive 有关的生命周期.md](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/keep-alive有关的生命周期.md)
 22. [data 声明为函数返回](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/data声明为函数返回.md)
+23. [render 函数好处](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/render函数好处.md)
