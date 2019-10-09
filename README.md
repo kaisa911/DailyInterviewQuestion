@@ -12,9 +12,11 @@
 
 [vue 推荐的风格指南](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue推荐的风格指南.md)
 
-[vue 给组件绑定自定义事件无效怎么解决](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue给组件绑定自定义事件无效怎么解决.md)
+[data 声明为函数返回](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/data声明为函数返回.md)
 
-[vue 怎么获取 DOM 节点](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue怎么获取DOM节点.md)
+[render 函数好处](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/render函数好处.md)
+
+[在 Vue 的各种属性中使用箭头函数有什么影响](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/在Vue的各种属性中使用箭头函数有什么影响.md)
 
 ……
 <br/>
