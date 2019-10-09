@@ -40,3 +40,4 @@
 38. [keep-alive 有关的生命周期.md](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/keep-alive有关的生命周期.md)
 39. [data 声明为函数返回](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/data声明为函数返回.md)
 40. [render 函数好处](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/render函数好处.md)
+41. [在 Vue 的各种属性中使用箭头函数有什么影响](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/在Vue的各种属性中使用箭头函数有什么影响.md)
