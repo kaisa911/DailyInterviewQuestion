@@ -18,6 +18,8 @@
 
 [在 Vue 的各种属性中使用箭头函数有什么影响](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/在Vue的各种属性中使用箭头函数有什么影响.md)
 
+[vue 的属性名称与 method 的方法名称一样时会发生什么问题？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue的属性名称与method的方法名称一样时会发生什么问题.md)
+
 ……
 <br/>
 

@@ -41,3 +41,4 @@
 39. [data 声明为函数返回](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/data声明为函数返回.md)
 40. [render 函数好处](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/render函数好处.md)
 41. [在 Vue 的各种属性中使用箭头函数有什么影响](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/在Vue的各种属性中使用箭头函数有什么影响.md)
+42. [vue 的属性名称与 method 的方法名称一样时会发生什么问题？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue的属性名称与method的方法名称一样时会发生什么问题.md)
