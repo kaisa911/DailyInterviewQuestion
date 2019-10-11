@@ -47,3 +47,15 @@ methods: {
   }
 }
 ```
+
+注销监听
+
+正常写的监听，会随着组件的销毁而注销，但是用\$watch 写的，就需要手动注销
+
+```js
+const unWatch = app.$watch('text', (newVal, oldVal) => {
+  console.log(`${newVal} : ${oldVal}`);
+});
+
+unWatch(); // 手动注销watch
+```
