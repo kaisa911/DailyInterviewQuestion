@@ -429,7 +429,7 @@
 #### vue-router
 
 1. vue-router 怎么重定向页面？
-2. vue-router 怎么配置 404 页面？
+2. vue-router 怎么配置 404 页面？✔
 3. 切换路由时，需要保存草稿的功能，怎么实现呢？
 4. vue-router 路由有几种模式？说说它们的区别？
 5. vue-router 有哪几种导航钩子（ 导航守卫 ）？
