@@ -45,3 +45,4 @@
 43. [求两个颜色之间的 10 个等分色](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/CSS/求两个颜色之间的10个等分色.md)
 44. [watch 怎么深度监听对象变化？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/watch怎么深度监听对象变化.md)
 45. [vue-router 配置 404](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue-router配置404.md)
+46. [v-on 可以绑定多个方法吗？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-on可以绑定多个方法吗.md)
