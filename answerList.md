@@ -46,3 +46,4 @@
 44. [watch 怎么深度监听对象变化？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/watch怎么深度监听对象变化.md)
 45. [vue-router 配置 404](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue-router配置404.md)
 46. [v-on 可以绑定多个方法吗？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-on可以绑定多个方法吗.md)
+47. [手写一个自定义指令及写出如何调用](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/手写一个自定义指令及写出如何调用.md)
