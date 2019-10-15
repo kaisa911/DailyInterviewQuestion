@@ -29,3 +29,4 @@
 27. [vue-router 配置 404](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue-router配置404.md)
 28. [v-on 可以绑定多个方法吗？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-on可以绑定多个方法吗.md)
 29. [手写一个自定义指令及写出如何调用](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/手写一个自定义指令及写出如何调用.md)
+30. [你自己有搭建过 vue 的开发环境吗](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/你自己有搭建过vue的开发环境吗.md)

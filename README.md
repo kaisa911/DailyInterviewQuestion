@@ -10,11 +10,9 @@
 
 [render 函数好处](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/render函数好处.md)
 
-[在 Vue 的各种属性中使用箭头函数有什么影响](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/在Vue的各种属性中使用箭头函数有什么影响.md)
+[你自己有搭建过 vue 的开发环境吗](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/你自己有搭建过vue的开发环境吗.md)
 
 [watch 怎么深度监听对象变化？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/watch怎么深度监听对象变化.md)
-
-[手写一个自定义指令及写出如何调用](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/手写一个自定义指令及写出如何调用.md)
 
 [v-on 可以绑定多个方法吗？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-on可以绑定多个方法吗.md)
 

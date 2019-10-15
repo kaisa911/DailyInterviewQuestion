@@ -808,6 +808,8 @@
 
 ## NodeJs
 
+## TypeScript
+
 ## 工具
 
 1. 说一下 loader 和 plugin 的区别。✔
