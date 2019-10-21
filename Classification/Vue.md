@@ -33,3 +33,4 @@
 31. [diff 算法](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/diff算法.md)
 32. [vue 如何监听键盘事件](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue如何监听键盘事件.md)
 33. [vue 为什么要求模板只能有一个根元素](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue为什么要求模板只能有一个根元素.md)
+34. [style 加 scoped 属性的用途和原理吗](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/style加scoped属性的用途和原理吗.md)
