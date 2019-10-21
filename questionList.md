@@ -411,6 +411,7 @@
 176. 有使用过 vue 吗？说说你对 vue 的理解
 177. vuex相对于bus的区别和实现
 178. keepalive实现
+179. 双向数据绑定实现，如何添加进dep watcher
 
 #### vue-cli
 
