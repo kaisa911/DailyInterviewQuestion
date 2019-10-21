@@ -2,7 +2,7 @@
 
 ```js
 export default {
-  name: "xxx"
+  name: 'xxx',
 };
 ```
 
@@ -10,20 +10,20 @@ export default {
 
 ```js
 export default {
-    name:'User'
+  name:'User'
 }，
 mounted(){
-   this.getUserInfo();
+  this.getUserInfo();
 }，
 methods:{
-   getUserInfo(){
-          axios.get('/xx/user.json',{
-              params:{
-                id:this.$route.params.id
-              }
-          }).then(this.getxxxInfo)
-     }
- }
+  getUserInfo(){
+    axios.get('/xx/user.json',{
+      params:{
+        id:this.$route.params.id
+      }
+    }).then(this.getxxxInfo)
+  }
+}
 ```
 
 如果在 App.vue 中使用了 keep-alive 导致我们第二次进入的时候页面不会重新请求，即触发 mounted 函数。
@@ -33,8 +33,8 @@ methods:{
 - 在 keep-alive 中增加一个过滤，如下所示：
 
 ```js
-<div id="app">
-  <keep-alive exclude="User">
+<div id='app'>
+  <keep-alive exclude='User'>
     <router-view />
   </keep-alive>
 </div>
@@ -73,30 +73,30 @@ export default {
 ```js
 const list = [
   {
-    title: "A",
+    title: 'A',
     children: [
       {
-        title: "A-A",
+        title: 'A-A',
         children: [
           {
-            title: "A-A-A"
-          }
-        ]
+            title: 'A-A-A',
+          },
+        ],
       },
       {
-        title: "A-B"
-      }
-    ]
+        title: 'A-B',
+      },
+    ],
   },
   {
-    title: "B"
+    title: 'B',
   },
   {
-    title: "C"
+    title: 'C',
   },
   {
-    title: "D"
-  }
+    title: 'D',
+  },
 ];
 ```
 
