@@ -55,3 +55,4 @@
 53. [vue 使用 mixin](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue使用mixin.md)
 54. [第一次加载页面时会触发哪几个钩子](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/第一次加载页面时会触发哪几个钩子.md)
 55. [vue 的 extend](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue的extend.md)
+56. [keepalive 实现](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/keepalive实现.md)

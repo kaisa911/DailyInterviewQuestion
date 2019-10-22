@@ -409,7 +409,7 @@
 174. 说说 vue 的优缺点
 175. 有使用过 vue 吗？说说你对 vue 的理解
 176. vuex 相对于 bus 的区别和实现
-177. keepalive 实现
+177. keepalive 实现✔
 178. 双向数据绑定实现，如何添加进 dep watcher
 
 #### vue-cli
