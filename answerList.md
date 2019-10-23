@@ -56,3 +56,4 @@
 54. [第一次加载页面时会触发哪几个钩子](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/第一次加载页面时会触发哪几个钩子.md)
 55. [vue 的 extend](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue的extend.md)
 56. [keepalive 实现](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/keepalive实现.md)
+57. [vue-router 的两种模式](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue-router的两种模式.md)

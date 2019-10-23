@@ -35,3 +35,4 @@
 33. [vue 为什么要求模板只能有一个根元素](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue为什么要求模板只能有一个根元素.md)
 34. [style 加 scoped 属性的用途和原理吗](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/style加scoped属性的用途和原理吗.md)
 35. [vue 的 extend](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue的extend.md)
+36. [vue-router 的两种模式](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue-router的两种模式.md)
