@@ -409,7 +409,7 @@
 174. 说说 vue 的优缺点
 175. 有使用过 vue 吗？说说你对 vue 的理解
 176. vuex 相对于 bus 的区别和实现
-177. keepalive 实现✔
+177. keepalive 实现 ✔
 178. 双向数据绑定实现，如何添加进 dep watcher
 
 #### vue-cli
@@ -454,7 +454,7 @@
 22. vue-router 钩子函数有哪些？都有哪些参数？
 23. vue-router 是用来做什么的？它有哪些组件？
 24. vue 路由守卫的方式
-25. vue history 与 hash 区别以及 vue 如何判断 history 与 hash 是否造成页面改变
+25. vue history 与 hash 区别以及 vue 如何判断 history 与 hash 是否造成页面改变 ✔
 
 #### vuex
 
