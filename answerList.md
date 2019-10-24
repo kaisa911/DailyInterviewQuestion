@@ -57,3 +57,4 @@
 55. [vue 的 extend](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue的extend.md)
 56. [keepalive 实现](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/keepalive实现.md)
 57. [vue-router 的两种模式](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue-router的两种模式.md)
+58. [unicode 和 uft8 区别](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/unicode和uft8区别.md)
