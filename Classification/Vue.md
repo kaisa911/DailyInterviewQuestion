@@ -36,3 +36,4 @@
 34. [style 加 scoped 属性的用途和原理吗](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/style加scoped属性的用途和原理吗.md)
 35. [vue 的 extend](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue的extend.md)
 36. [vue-router 的两种模式](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue-router的两种模式.md)
+37. [vue 的 is 特性](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue的is特性.md)
