@@ -9,3 +9,4 @@
 7. [实现一个 apply 方法和 call 方法](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/实现一个apply方法和call方法.md)
 8. [实现一个 bind 方法](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/实现一个bind方法.md)
 9. [new 操作符具体干了什么](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/new操作符具体干了什么.md)
+10. [require 和 import](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/require和import.md)
