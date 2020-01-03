@@ -38,4 +38,4 @@
 36. [vue-router 的两种模式](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue-router的两种模式.md)
 37. [vue 的 is 特性](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue的is特性.md)
 38. [v-for 循环中 key 有什么作用](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-for循环中key有什么作用.md)
-39. [vue 的 is 特性](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/template标签有什么用.md)
+39. [template 标签有什么用](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/template标签有什么用.md)
