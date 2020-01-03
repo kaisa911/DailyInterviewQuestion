@@ -61,3 +61,4 @@
 59. [vue 的 is 特性](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/vue的is特性.md)
 60. [require 和 import](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/require和import.md)
 61. [v-for 循环中 key 有什么作用](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-for循环中key有什么作用.md)
+62. [vue 的 is 特性](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/template标签有什么用.md)

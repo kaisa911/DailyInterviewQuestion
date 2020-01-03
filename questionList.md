@@ -304,7 +304,7 @@
 68. 你有使用过 JSX 吗？说说你对 JSX 的理解
 69. 说说组件的命名规范 ✔
 70. 怎么配置使 vue2.0+支持 TypeScript 写法？
-71. \<template>\</template>有什么用？
+71. \<template>\</template>有什么用？✔
 72. vue 的 is 这个特性你有用过吗？主要用在哪些方面？✔
 73. vue 的:class 和:style 有几种表示方式？
 74. 你了解什么是函数式组件吗？
