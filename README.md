@@ -10,11 +10,11 @@
 
 [render 函数好处](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/render函数好处.md)
 
-[你自己有搭建过 vue 的开发环境吗](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/你自己有搭建过vue的开发环境吗.md)
-
-[watch 怎么深度监听对象变化？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/watch怎么深度监听对象变化.md)
-
 [v-on 可以绑定多个方法吗？](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-on可以绑定多个方法吗.md)
+
+[JSX 理解与 Vue 中使用 JSX](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/Vue中使用JSX.md)
+
+[v-if 和 v-show 的区别和使用场景](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-show和v-if有什么区别.md)
 
 ……
 <br/>
