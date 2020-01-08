@@ -7,8 +7,8 @@
 5. 原生 Math 的方法有哪些？请列举并描述其功能
 6. 实现一个 bind()。✔
 7. 实现一个 apply(),call()。✔
-8. 实现节流函数 throttle()。
-9. 实现一个防抖函数 debounce()。
+8. 实现节流函数 throttle()。✔
+9. 实现一个防抖函数 debounce()。✔
 10. requestAnimationFrame 和 setTimeout 、setInterval 的关系。
 11. 一个字符串如何去掉字符串中的空格？
 12. 一个字符串如何去重？
@@ -36,3 +36,4 @@
 34. 如何让 dom 不响应拖动事件，但响应点击事件，拖动事件要传递给父 DOM 处理？
 35. unicode 和 utf8 区别是什么 ✔
 36. “require(x)” and import x 的不同 ✔
+37. 写一个方法，使得 sum(x)(y)和 sum(x,y)返回的结果相同 ✔
