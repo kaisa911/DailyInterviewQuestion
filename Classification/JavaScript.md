@@ -10,3 +10,6 @@
 8. [实现一个 bind 方法](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/实现一个bind方法.md)
 9. [new 操作符具体干了什么](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/new操作符具体干了什么.md)
 10. [require 和 import](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/JavaScript/require和import.md)
+11. [实现节流函数 throttle()](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/JavaScript/实现节流函数throttle().md)
+12. [实现一个防抖函数 debounce()](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/JavaScript/实现一个防抖函数debounce().md)
+13. [实现一个方法，使 sum(x)(y)和 sum(x,y)值相等](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/JavaScript/sum(x)(y)和sum(x,y).md)
