@@ -41,3 +41,4 @@
 39. [template 标签有什么用](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/template标签有什么用.md)
 40. [JSX 理解与 Vue 中使用 JSX](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/Vue中使用JSX.md)
 41. [v-if 和 v-show 的区别和使用场景](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-show和v-if有什么区别.md)
+42. [vue 渲染大量数据时应该怎么优化](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/vue渲染大量数据时应该怎么优化.md)

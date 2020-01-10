@@ -173,6 +173,15 @@
 169. vuex 相对于 bus 的区别和实现
 170. keep-alive 实现 ✔
 171. 双向数据绑定实现，如何添加进 dep watcher
+172. vue 是如何对数组方法进行变异的？例如 push、pop、splice 等方法
+173. webpack 打包 vue 速度太慢怎么办？
+174. 在 Vue 中，子组件为何不可以修改父组件传递的 Prop
+175. Vue 的响应式原理中 Object.defineProperty 有什么缺陷？
+176. vue 在 v-for 时给每项元素绑定事件需要用事件代理吗？为什么？
+177. React 和 Vue 的 diff 时间复杂度从 O(n^3) 优化到 O(n) ，那么 O(n^3) 和 O(n) 是如何计算出来的？
+178. vue 如何优化首页的加载速度？vue 首页白屏是什么问题引起的？如何解决呢？
+179. v-if、v-show、v-html 的原理是什么，它是如何封装的？
+180. Vue 中的 computed 是如何实现的（腾讯、平安）
 
 #### vue-cli
 
@@ -236,3 +245,5 @@
 14. 你理解的 vuex 是什么呢？哪些场景会用到？不用会有问题吗？有哪些特性？
 15. 使用 vuex 的优势是什么？
 16. 有用过 vuex 吗？它主要解决的是什么问题？推荐在哪些场景用？
+17. 为什么 Vuex 的 mutation 和 Redux 的 reducer 中不能做异步操作？
+18. 双向绑定和 vuex 是否冲突
