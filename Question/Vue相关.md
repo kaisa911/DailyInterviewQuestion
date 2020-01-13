@@ -172,7 +172,7 @@
 168. 有使用过 vue 吗？说说你对 vue 的理解
 169. vuex 相对于 bus 的区别和实现
 170. keep-alive 实现 ✔
-171. 双向数据绑定实现，如何添加进 dep watcher
+171. 双向数据绑定实现，如何添加进 dep watcher✔
 172. vue 是如何对数组方法进行变异的？例如 push、pop、splice 等方法
 173. webpack 打包 vue 速度太慢怎么办？
 174. 在 Vue 中，子组件为何不可以修改父组件传递的 Prop
