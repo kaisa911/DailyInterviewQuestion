@@ -70,3 +70,4 @@
 68. [清空一个数组的方式有哪些](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/JavaScript/清空一个数组的方式有哪些.md)
 69. [vue 渲染大量数据时应该怎么优化](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/vue渲染大量数据时应该怎么优化.md)
 70. [双向数据绑定实现](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/双向数据绑定实现.md)
+71. [vue 是如何对数组方法进行变异的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/vue是如何对数组方法进行变异的.md)
