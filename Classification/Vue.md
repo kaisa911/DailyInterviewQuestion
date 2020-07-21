@@ -42,3 +42,6 @@
 40. [JSX 理解与 Vue 中使用 JSX](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/Vue中使用JSX.md)
 41. [v-if 和 v-show 的区别和使用场景](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Questions/Vue/v-show和v-if有什么区别.md)
 42. [vue 渲染大量数据时应该怎么优化](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/vue渲染大量数据时应该怎么优化.md)
+43. [双向数据绑定实现](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/双向数据绑定实现.md)
+44. [vue 是如何对数组方法进行变异的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/vue是如何对数组方法进行变异的.md)
+45. [什么是虚拟 dom](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/什么是虚拟dom.md)
