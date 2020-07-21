@@ -127,143 +127,147 @@
 123. 在 React 中我们怎么做静态类型检测？都有哪些方法可以做到？
 124. 在 React 中组件的 state 和 setState 有什么区别？
 125. React 怎样跳过重新渲染？
-126. React 怎么判断什么时候重新渲染组件呢？
-127. 什么是 React 的实例？函数式组件有没有实例？
-128. 在 React 中如何判断点击元素属于哪一个组件？
-129. 在 React 中组件和元素有什么区别？
-130. 在 React 中声明组件时组件名的第一个字母必须是大写吗？为什么？
-131. 举例说明什么是高阶组件(HOC)的反向继承？
-132. 有用过 React Devtools 吗？说说它的优缺点分别是什么？
-133. 举例说明什么是高阶组件(HOC)的属性代理？
-134. React 的 isMounted 有什么作用？
-135. React 组件命名推荐的方式是哪个？为什么不推荐使用 displayName？
-136. React 的 displayName 有什么作用？
-137. 说说你对 React 的组件命名规范的理解
-138. 说说你对 React 的项目结构的理解
-139. React16 废弃了哪些生命周期？为什么？
-140. 怎样在 React 中开启生产模式？
-141. React 中 getInitialState 方法的作用是什么？
-142. React 中你知道 creatClass 的原理吗？
-143. React 中验证 props 的目的是什么？
-144. React 中你有使用过 getDefaultProps 吗？它有什么作用？
-145. React 中你有使用过 propType 吗？它有什么作用？
-146. React 中怎么检验 props？
-147. React.createClass 和 extends Component 的区别有哪些？
-148. 高阶组件(HOC)有哪些优点和缺点？
-149. 给组件设置很多属性时不想一个个去设置有什么办法可以解决这问题呢？
-150. React16 跟之前的版本生命周期有哪些变化？
-151. 怎样实现 React 组件的记忆？原理是什么？
-152. 创建 React 动画有哪些方式？
-153. 为什么建议不要过渡使用 Refs？
-154. 在 React 使用高阶组件(HOC)有遇到过哪些问题？如何解决？
-155. 在使用 React 过程中什么时候用高阶组件(HOC)？
-156. 说说 React diff 的原理是什么？
-157. React 怎么提高列表渲染的性能？
-158. 使用 ES6 的 class 定义的组件不支持 mixins 了，那用什么可以替代呢？
-159. 为何说虚拟 DOM 会提高性能？
-160. React 的性能优化在哪个生命周期？它优化的原理是什么？
-161. 你知道的 React 性能优化有哪些方法？
-162. 举例说明在 React 中怎么使用样式？
-163. React 有哪几种方法来处理表单输入？
-164. 什么是浅层渲染？
-165. 你有做过 React 的单元测试吗？如果有，用的是哪些工具？怎么做的？
-166. 在 React 中什么是合成事件？有什么用？
-167. 使用 React 写一个 todo 应用，说说你的思路
-168. React16 的 reconciliation 和 commit 分别是什么？
-169. useState 和 this.state 的区别是什么？
-170. 举例说明 useState，useImperativeHandle，useReducer，useRef，useEffect
-171. 请说说什么是 useState？为什么要使用 useState？
-172. 请描述下你对 React 的新特性 Hooks 的理解？它有哪些应用场景？
-173. 说说你对 Error Boundaries 的理解
-174. 说说你对 Fiber 架构的理解
-175. 说说你是怎么理解 React 的业务组件和技术组件的？
-176. 为什么建议 setState 的第一个参数是 callback 而不是一个对象呢？
-177. 展示组件和容器组件有什么区别？
-178. Mern 和 Yeoman 脚手架有什么区别？
-179. 你有在项目中使用过 Yeoman 脚手架吗？
-180. 你有在项目中使用过 Mern 脚手架吗？
-181. shouldComponentUpdate 方法是做什么的？
-182. 怎样在 React 中使用 innerHTML？
-183. 你有写过 React 的中间件插件吗？
-184. React 的中间件机制是怎么样的？这种机制有什么作用？
-185. React 中你用过哪些第三方的中间件？
-186. 不用脚手架，你会手动搭建 React 项目吗？
-187. 请说说 React 中 Portal 是什么？
-188. React 中修改 prop 引发的生命周期有哪几个？
-189. React 多个 setState 调用的原理是什么？
-190. React 中调用 setState 会更新的生命周期有哪几个？
-191. React 中 setState 的第二个参数作用是什么呢？
-192. React 中的 setState 是同步还是异步的呢？为什么 state 并不一定会同步更新？
-193. React 中的 setState 批量更新的过程是什么？
-194. React 中的 setState 执行机制是什么呢？
-195. React 中的 setState 和 replaceState 的区别是什么？
-196. React 中的 setState 缺点是什么呢？
-197. 在 React 中遍历的方法有哪些？它们有什么区别呢？
-198. 请说说你对 React 的 render 方法的理解
-199. props.children.map 和 js 的 map 有什么区别？为什么优先选择 React 的？
-200. 有用过 React 的严格模式吗？
-201. 有用过 React 的 Fragment 吗？它的运用场景是什么？
-202. React 组件间共享数据方法有哪些？
-203. React 的状态提升是什么？使用场景有哪些？
-204. 简单描述下你有做过哪些 React 项目？
-205. 在构造函数中调用 super(props)的目的是什么？
-206. 你是如何学习 React 的？
-207. 从旧版本的 React 升级到新版本的 React 有做过吗？有遇到过什么坑？
-208. 你用过 React 版本有哪些？
-209. 有用过 React 的服务端渲染吗？怎么做的？
-210. React 的 mixins 有什么作用？适用于什么场景？
-211. React 怎么拿到组件对应的 DOM 元素？
-212. 请描述下事件在 React 中的处理方式是什么？
-213. JSX 和 HTML 有什么区别？
-214. React 的书写规范有哪些？
-215. create-react-app 创建新运用怎么解决卡的问题？
-216. 使用 React 的方式有哪几种？
-217. 说说你对 reader 的 context 的理解
-218. 同时引用这三个库 React.js、React-dom.js 和 babel.js 它们都有什么作用？
-219. 你知道 Virtual DOM 的工作原理吗？
-220. 你阅读过 React 的源码吗？简要说下它的执行流程
-221. React 中怎样阻止组件渲染？
-222. React 组件间的通信有哪些，非兄弟组件，兄弟组件，非父子组件，父子组件？
-223. 类组件和函数式组件有什么区别？
-224. React 自定义组件你写过吗？说说看都写过哪些？
-225. React 组件的 state 和 props 两者有什么区别？
-226. React 有几种构建组件的方式？可以写出来吗？
-227. React 中遍历时为什么不用索引作为唯一的 key 值？
-228. React 中的 key 有什么作用？
-229. React 中除了在构造函数中绑定 this,还有别的方式吗？
-230. 在 React 中页面重新加载时怎样保留数据？
-231. 请描述下 React 的事件机制
-232. 怎样在 React 中创建一个事件？
-233. 在 React 中无状态组件有什么运用场景？
-234. 描述下在 React 中无状态组件和有状态组件的区别是什么？
-235. 写一个 React 的高阶组件(HOC)并说明你对它的理解
-236. React 中可以在 render 访问 refs 吗？为什么？
-237. React 中 refs 的作用是什么？有哪些应用场景？
-238. 请描述你对纯函数的理解？
-239. 受控组件和非受控组件有什么区别？
-240. React 中什么是非控组件？
-241. React 中什么是受控组件？
-242. React 中发起网络请求应该在哪个生命周期中进行？为什么？
-243. 说说 React 的生命周期有哪些？
-244. 说说你对“在 React 中，一切都是组件”的理解
-245. 写 React 你是用 es6 还是 es5 的语法？有什么区别？
-246. 浏览器为什么无法直接 JSX？怎么解决呢？
-247. 在使用 React 过程中你都踩过哪些坑？你是怎么填坑的？
-248. 说说你喜欢 React 的原因是什么？它有什么优缺点？
-249. 如何解决引用类型在 pureComponent 下修改值的时候，页面不渲染的问题？
-250. createElement 与 cloneElement 两者有什么区别？
-251. 解释下 React 中 Element 和 Component 两者的区别是什么？
-252. 解释下 React 中 component 和 pureComponent 两者的区别是什么？
-253. React 的虚拟 DOM 和 vue 的虚拟 DOM 有什么区别？
-254. 你觉得 React 上手快不快？它有哪些限制？
-255. 说说你对声明式编程的理解？
-256. React 与 angular、vue 有什么区别？
-257. React 是哪个公司开发的？
-258. React 是什么？它的主要特点是什么？
-259. 简要描述下你知道的 React 工作原理是什么？
-260. 在 React 中怎样改变组件状态，以及状态改变的过程是什么？
-261. 在 React 中你是怎么进行状态管理的？
-262. React 声明组件有哪几种方法，各有什么不同？
+126. React 原理
+127. setState 同步异步，怎么同步
+128. react 性能优化
+129. react 和传统 html 区别
+130. React 怎么判断什么时候重新渲染组件呢？
+131. 什么是 React 的实例？函数式组件有没有实例？
+132. 在 React 中如何判断点击元素属于哪一个组件？
+133. 在 React 中组件和元素有什么区别？
+134. 在 React 中声明组件时组件名的第一个字母必须是大写吗？为什么？
+135. 举例说明什么是高阶组件(HOC)的反向继承？
+136. 有用过 React Devtools 吗？说说它的优缺点分别是什么？
+137. 举例说明什么是高阶组件(HOC)的属性代理？
+138. React 的 isMounted 有什么作用？
+139. React 组件命名推荐的方式是哪个？为什么不推荐使用 displayName？
+140. React 的 displayName 有什么作用？
+141. 说说你对 React 的组件命名规范的理解
+142. 说说你对 React 的项目结构的理解
+143. React16 废弃了哪些生命周期？为什么？
+144. 怎样在 React 中开启生产模式？
+145. React 中 getInitialState 方法的作用是什么？
+146. React 中你知道 creatClass 的原理吗？
+147. React 中验证 props 的目的是什么？
+148. React 中你有使用过 getDefaultProps 吗？它有什么作用？
+149. React 中你有使用过 propType 吗？它有什么作用？
+150. React 中怎么检验 props？
+151. React.createClass 和 extends Component 的区别有哪些？
+152. 高阶组件(HOC)有哪些优点和缺点？
+153. 给组件设置很多属性时不想一个个去设置有什么办法可以解决这问题呢？
+154. React16 跟之前的版本生命周期有哪些变化？
+155. 怎样实现 React 组件的记忆？原理是什么？
+156. 创建 React 动画有哪些方式？
+157. 为什么建议不要过渡使用 Refs？
+158. 在 React 使用高阶组件(HOC)有遇到过哪些问题？如何解决？
+159. 在使用 React 过程中什么时候用高阶组件(HOC)？
+160. 说说 React diff 的原理是什么？
+161. React 怎么提高列表渲染的性能？
+162. 使用 ES6 的 class 定义的组件不支持 mixins 了，那用什么可以替代呢？
+163. 为何说虚拟 DOM 会提高性能？
+164. React 的性能优化在哪个生命周期？它优化的原理是什么？
+165. 你知道的 React 性能优化有哪些方法？
+166. 举例说明在 React 中怎么使用样式？
+167. React 有哪几种方法来处理表单输入？
+168. 什么是浅层渲染？
+169. 你有做过 React 的单元测试吗？如果有，用的是哪些工具？怎么做的？
+170. 在 React 中什么是合成事件？有什么用？
+171. 使用 React 写一个 todo 应用，说说你的思路
+172. React16 的 reconciliation 和 commit 分别是什么？
+173. useState 和 this.state 的区别是什么？
+174. 举例说明 useState，useImperativeHandle，useReducer，useRef，useEffect
+175. 请说说什么是 useState？为什么要使用 useState？
+176. 请描述下你对 React 的新特性 Hooks 的理解？它有哪些应用场景？
+177. 说说你对 Error Boundaries 的理解
+178. 说说你对 Fiber 架构的理解
+179. 说说你是怎么理解 React 的业务组件和技术组件的？
+180. 为什么建议 setState 的第一个参数是 callback 而不是一个对象呢？
+181. 展示组件和容器组件有什么区别？
+182. Mern 和 Yeoman 脚手架有什么区别？
+183. 你有在项目中使用过 Yeoman 脚手架吗？
+184. 你有在项目中使用过 Mern 脚手架吗？
+185. shouldComponentUpdate 方法是做什么的？
+186. 怎样在 React 中使用 innerHTML？
+187. 你有写过 React 的中间件插件吗？
+188. React 的中间件机制是怎么样的？这种机制有什么作用？
+189. React 中你用过哪些第三方的中间件？
+190. 不用脚手架，你会手动搭建 React 项目吗？
+191. 请说说 React 中 Portal 是什么？
+192. React 中修改 prop 引发的生命周期有哪几个？
+193. React 多个 setState 调用的原理是什么？
+194. React 中调用 setState 会更新的生命周期有哪几个？
+195. React 中 setState 的第二个参数作用是什么呢？
+196. React 中的 setState 是同步还是异步的呢？为什么 state 并不一定会同步更新？
+197. React 中的 setState 批量更新的过程是什么？
+198. React 中的 setState 执行机制是什么呢？
+199. React 中的 setState 和 replaceState 的区别是什么？
+200. React 中的 setState 缺点是什么呢？
+201. 在 React 中遍历的方法有哪些？它们有什么区别呢？
+202. 请说说你对 React 的 render 方法的理解
+203. props.children.map 和 js 的 map 有什么区别？为什么优先选择 React 的？
+204. 有用过 React 的严格模式吗？
+205. 有用过 React 的 Fragment 吗？它的运用场景是什么？
+206. React 组件间共享数据方法有哪些？
+207. React 的状态提升是什么？使用场景有哪些？
+208. 简单描述下你有做过哪些 React 项目？
+209. 在构造函数中调用 super(props)的目的是什么？
+210. 你是如何学习 React 的？
+211. 从旧版本的 React 升级到新版本的 React 有做过吗？有遇到过什么坑？
+212. 你用过 React 版本有哪些？
+213. 有用过 React 的服务端渲染吗？怎么做的？
+214. React 的 mixins 有什么作用？适用于什么场景？
+215. React 怎么拿到组件对应的 DOM 元素？
+216. 请描述下事件在 React 中的处理方式是什么？
+217. JSX 和 HTML 有什么区别？
+218. React 的书写规范有哪些？
+219. create-react-app 创建新运用怎么解决卡的问题？
+220. 使用 React 的方式有哪几种？
+221. 说说你对 reader 的 context 的理解
+222. 同时引用这三个库 React.js、React-dom.js 和 babel.js 它们都有什么作用？
+223. 你知道 Virtual DOM 的工作原理吗？
+224. 你阅读过 React 的源码吗？简要说下它的执行流程
+225. React 中怎样阻止组件渲染？
+226. React 组件间的通信有哪些，非兄弟组件，兄弟组件，非父子组件，父子组件？
+227. 类组件和函数式组件有什么区别？
+228. React 自定义组件你写过吗？说说看都写过哪些？
+229. React 组件的 state 和 props 两者有什么区别？
+230. React 有几种构建组件的方式？可以写出来吗？
+231. React 中遍历时为什么不用索引作为唯一的 key 值？
+232. React 中的 key 有什么作用？
+233. React 中除了在构造函数中绑定 this,还有别的方式吗？
+234. 在 React 中页面重新加载时怎样保留数据？
+235. 请描述下 React 的事件机制
+236. 怎样在 React 中创建一个事件？
+237. 在 React 中无状态组件有什么运用场景？
+238. 描述下在 React 中无状态组件和有状态组件的区别是什么？
+239. 写一个 React 的高阶组件(HOC)并说明你对它的理解
+240. React 中可以在 render 访问 refs 吗？为什么？
+241. React 中 refs 的作用是什么？有哪些应用场景？
+242. 请描述你对纯函数的理解？
+243. 受控组件和非受控组件有什么区别？
+244. React 中什么是非控组件？
+245. React 中什么是受控组件？
+246. React 中发起网络请求应该在哪个生命周期中进行？为什么？
+247. 说说 React 的生命周期有哪些？
+248. 说说你对“在 React 中，一切都是组件”的理解
+249. 写 React 你是用 es6 还是 es5 的语法？有什么区别？
+250. 浏览器为什么无法直接 JSX？怎么解决呢？
+251. 在使用 React 过程中你都踩过哪些坑？你是怎么填坑的？
+252. 说说你喜欢 React 的原因是什么？它有什么优缺点？
+253. 如何解决引用类型在 pureComponent 下修改值的时候，页面不渲染的问题？
+254. createElement 与 cloneElement 两者有什么区别？
+255. 解释下 React 中 Element 和 Component 两者的区别是什么？
+256. 解释下 React 中 component 和 pureComponent 两者的区别是什么？
+257. React 的虚拟 DOM 和 vue 的虚拟 DOM 有什么区别？
+258. 你觉得 React 上手快不快？它有哪些限制？
+259. 说说你对声明式编程的理解？
+260. React 与 angular、vue 有什么区别？
+261. React 是哪个公司开发的？
+262. React 是什么？它的主要特点是什么？
+263. 简要描述下你知道的 React 工作原理是什么？
+264. 在 React 中怎样改变组件状态，以及状态改变的过程是什么？
+265. 在 React 中你是怎么进行状态管理的？
+266. React 声明组件有哪几种方法，各有什么不同？
 
 #### ReactNative
 
