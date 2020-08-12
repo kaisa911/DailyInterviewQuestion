@@ -45,3 +45,64 @@
 43. 声明合并是什么？
 44. TypeScript 中的方法覆盖是什么？
 45. 什么是 Lambda/Arrow 功能？
+46. void 和 undefined 有什么区别？
+47. 什么是 never 类型？
+48. readonly 和 const 有什么区别
+49. 下面代码会不会报错？怎么解决？
+
+    ```ts
+    const obj = { a: 1, b: 'string' };
+    obj.c = null;
+    ```
+
+50. 下面代码中，foo 的类型应该如何声明
+
+    ```ts
+    function foo(a: number) {
+    	return a + 1;
+    }
+
+    foo.bar = 123;
+    ```
+
+51. 下面代码中，foo 的类型如何声明
+
+    ```ts
+    let foo = {};
+    for (let i = 0; i < 100; i++) {
+    	foo[String(i)] = i;
+    }
+    ```
+
+52. 实现 MyInterface
+
+    ```ts
+    interface MyInterface {
+      ...
+    }
+
+    class Bar implements MyInterface {
+      constructor(public name: string) {}
+    }
+
+    class Foo implements MyInterface {
+      constructor(public name: string) {}
+    }
+
+    function myfn(Klass: MyInterface, name: string) {
+      return new Klass(name);
+    }
+    myfn(Bar);
+    myfn(Foo);
+    ```
+
+53. 什么是 Abstract Class？
+54. 什么是 class mixin, 如何实现？
+55. typeof 关键词有什么用？
+56. keyof 关键词有什么用？
+57. 类型声明里 「&」和「|」有什么作用？
+58. tsconfig.json 里 --strictNullChecks 参数的作用是什么？
+59. declare 关键字有什么用？
+60. module 关键字有什么用？
+61. namespace 和 module 有什么区别
+62. 哪些声明类型既可以当做 type 也可以当做 value？
