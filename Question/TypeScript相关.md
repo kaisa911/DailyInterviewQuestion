@@ -3,7 +3,7 @@
 1. Typescript 是什么？
 2. TypeScript 与 JavaScript 有何不同(区别)？
 3. 为什么需要 TypeScript？
-4. Typescript 有哪些功能？
+4. Typescript 有哪些特性？
 5. Typescript 中的内置类型有哪些？
 6. 如何编译 Typescript 文件？
 7. Typescript 中有哪些变量？ 如何在 Typescript 中创建变量？
@@ -45,3 +45,63 @@
 43. 声明合并是什么？
 44. TypeScript 中的方法覆盖是什么？
 45. 什么是 Lambda/Arrow 功能？
+46. void 和 undefined 有什么区别？
+47. 什么是 never 类型？
+48. readonly 和 const 有什么区别
+49. 什么是 Abstract Class？
+50. 什么是 class mixin, 如何实现？
+51. typeof 关键词有什么用？
+52. keyof 关键词有什么用？
+53. 类型声明里 「&」和「|」有什么作用？
+54. tsconfig.json 里 --strictNullChecks 参数的作用是什么？
+55. declare 关键字有什么用？
+56. module 关键字有什么用？
+57. namespace 和 module 有什么区别
+58. 哪些声明类型既可以当做 type 也可以当做 value？
+59. 下面代码会不会报错？怎么解决？
+
+    ```ts
+    const obj = { a: 1, b: 'string' };
+    obj.c = null;
+    ```
+
+60. 下面代码中，foo 的类型应该如何声明
+
+    ```ts
+    function foo(a: number) {
+    	return a + 1;
+    }
+
+    foo.bar = 123;
+    ```
+
+61. 下面代码中，foo 的类型如何声明
+
+    ```ts
+    let foo = {};
+    for (let i = 0; i < 100; i++) {
+    	foo[String(i)] = i;
+    }
+    ```
+
+62. 实现 MyInterface
+
+    ```ts
+    interface MyInterface {
+      ...
+    }
+
+    class Bar implements MyInterface {
+      constructor(public name: string) {}
+    }
+
+    class Foo implements MyInterface {
+      constructor(public name: string) {}
+    }
+
+    function myfn(Klass: MyInterface, name: string) {
+      return new Klass(name);
+    }
+    myfn(Bar);
+    myfn(Foo);
+    ```
