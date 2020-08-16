@@ -69,7 +69,7 @@
 
     ```ts
     function foo(a: number) {
-    	return a + 1;
+     return a + 1;
     }
 
     foo.bar = 123;
@@ -80,7 +80,7 @@
     ```ts
     let foo = {};
     for (let i = 0; i < 100; i++) {
-    	foo[String(i)] = i;
+     foo[String(i)] = i;
     }
     ```
 
