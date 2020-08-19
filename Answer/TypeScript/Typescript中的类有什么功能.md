@@ -91,6 +91,7 @@ class Dog extends Animal {
 		console.log('Woof! Woof!');
 	}
 }
+
 class Snake extends Animal {
 	constructor(name: string) {
 		super(name);
