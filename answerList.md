@@ -73,3 +73,4 @@
 71. [vue 是如何对数组方法进行变异的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/vue是如何对数组方法进行变异的.md)
 72. [什么是虚拟 dom](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/什么是虚拟dom.md)
 73. [说一下 http 缓存，强制缓存和协商缓存](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Network/vue渲染大量数据时应该怎么优化.md)
+74. [vue 中怎么重置 data](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Network/vue中怎么重置data.md)

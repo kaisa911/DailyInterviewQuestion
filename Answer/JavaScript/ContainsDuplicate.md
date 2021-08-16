@@ -3,7 +3,7 @@
 ## 两个循环寻找重复元素
 
 ```javascript
-var containsDuplicate = function(nums) {
+var containsDuplicate = function (nums) {
   for (let i = 0; i < nums.length; i++) {
     for (let j = 0; j < i; j++) {
       if (nums[j] === nums[i]) return true;
@@ -18,7 +18,7 @@ var containsDuplicate = function(nums) {
 ## 数组排序后两两比对
 
 ```javascript
-var containsDuplicate = function(nums) {
+var containsDuplicate = function (nums) {
   nums = nums.sort((a, b) => a - b);
   for (let i = 0; i < nums.length; i++) {
     if (nums[i] === nums[i + 1]) return true;
@@ -34,13 +34,10 @@ var containsDuplicate = function(nums) {
 这个方法是最为照顾时间复杂度的
 
 ```javascript
-var containsDuplicate = function(nums) {
+var containsDuplicate = function (nums) {
   const set = Array.from(new Set(nums));
-  if (nums.length === set.length) {
-    return false;
-  } else {
-    return true;
-  }
+
+  return nums.length !== set.length;
 };
 ```
 
