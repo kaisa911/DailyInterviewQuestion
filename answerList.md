@@ -74,3 +74,4 @@
 72. [什么是虚拟 dom](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/什么是虚拟dom.md)
 73. [说一下 http 缓存，强制缓存和协商缓存](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Network/vue渲染大量数据时应该怎么优化.md)
 74. [vue 中怎么重置 data](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Network/vue中怎么重置data.md)
+75. [谈谈对 Vue 表单修饰符 lazy 的理解](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Network/lazy修饰符的理解.md)

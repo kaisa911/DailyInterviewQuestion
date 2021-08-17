@@ -46,3 +46,4 @@
 44. [vue 是如何对数组方法进行变异的](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/vue是如何对数组方法进行变异的.md)
 45. [什么是虚拟 dom](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/什么是虚拟dom.md)
 46. [vue 中怎么重置 data](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Vue/vue中怎么重置data.md)
+47. [谈谈对 Vue 表单修饰符 lazy 的理解](https://github.com/kaisa911/DailyInterviewQuestion/blob/master/Answer/Network/lazy修饰符的理解.md)
